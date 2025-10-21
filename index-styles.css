@@ -1,0 +1,19 @@
+button {
+    background-color: rgb(50, 50, 50);
+    color: rgb(255, 255, 255);
+    border-width: 5px;
+    padding: 10px;
+    width: 175px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+li {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
