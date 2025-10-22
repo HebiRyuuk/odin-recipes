@@ -16,6 +16,9 @@ h1 {
     text-align: center;
     color: black;
     font-weight: 900;
+    font-size: 128px;
+    margin-top: -55px;
+    margin-bottom: -10px;
 }
 
 center_content {
