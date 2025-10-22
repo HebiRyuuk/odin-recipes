@@ -21,6 +21,12 @@ h1 {
     margin-bottom: -10px;
 }
 
+h2 {
+    font-weight: 900;
+    text-indent: 65px;
+    margin-bottom: -15px;
+}
+
 center_content {
     display: block;
     margin-left: auto;
